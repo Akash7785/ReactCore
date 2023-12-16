@@ -1,0 +1,30 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "learning about aprcel",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash7785/ReactCore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akash7785/ReactCore/issues"
+  },
+  "homepage": "https://github.com/Akash7785/ReactCore#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
